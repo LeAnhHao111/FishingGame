@@ -1,0 +1,46 @@
+GAME CÂU CÁ (Mô phỏng lại game đào vàng cổ điển).
+
+Tên game: "Câu Cá Vàng"
+
+*Cốt truyện:
+
+"Trong một thị trấn nhỏ yên bình nằm bên bờ biển, người dân đã lâu lắm rồi không có niềm vui và khao khát như ngày xưa. 
+Nhưng một hôm, một câu chuyện về loài cá vàng quý hiếm được người dân truyền tai nhau. 
+Loài cá này được cho rằng mang theo nguồn lợi kinh tế và niềm may mắn cho những ai bắt được nó.
+
+Với sự hi vọng sẽ thay đổi cuộc sống cả thị trấn, bạn quyết định trở thành một ngư dân. 
+Sử dụng một chiếc thuyền nhỏ và mồi câu của mình, bạn sẽ đi săn cá vàng để trở thành người giàu có và có thể cứu vãn thị trấn."
+
+*Gameplay:
+
+- Người chơi sẽ vào vai một ngư dân và sử dụng số tiền vàng kiếm được từ việc câu cá để nâng cấp thuyền, cần câu, và các phụ kiện khác. 
+Mỗi cấp nâng cấp sẽ giúp bạn câu được các loài cá khó hơn và kiếm được nhiều vàng hơn.
+
+- Trò chơi sẽ chia thành nhiều level, người chơi sẽ chơi từ level 1 đến level cuối cùng một cách liên tục. 
+Mục tiêu ở mỗi level là người chơi cần phải đạt được mốc điểm tương ứng với lượng tiền từ việc câu cá trong thời gian nhất định để qua màn.
+Qua mỗi level người chơi sẽ được chuyển tới shop nâng cấp, ở đây bạn sẽ phải sử dụng số tiền mình kiếm được ở màn chơi trước một cách hợp lý.
+Khi người chơi thua ở level nào đó người chơi sẽ được trải nghiệm cảm giác trùng sinh (quay trờ về level 1).
+
+- Ở mỗi Level sẽ có những loài cá khác nhau, mức độ khó khác nhau và kích thước cá khác nhau. 
+Đôi khi người chơi sẽ bắt gặp những chú cá vàng quý hiếm, chúng sẽ có giá trị kinh tế cao hơn, nhưng chúng cũng sẽ không dễ dàng để bị bắt. 
+Người chơi sẽ phải chọn vị trí thuyền và căn chỉnh tốc độ thả cần, nâng cấp item phù hợp để bắt được những con cá lớn và quý hiếm.
+
+- Điểm số vàng mà người chơi kiếm được từ việc bắt cá có thể được sử dụng để nâng cấp các vật phẩm khác như mồi câu, dây câu, cần câu
+(chúng sẽ giúp người chơi qua các level sau dễ dàng hơn).
+	Ví dụ: 	+ Nâng cấp thuyền: thuyền sẽ di chuyển nhanh hơn.
+		+ Nâng cấp dây câu: Tăng đồ dài dây, câu được những con cá ở vị trí sâu hơn.
+		+ Nâng cấp cần câu: Tăng sức bền, câu được những con cá có khối lượng lớn hơn.
+		+ Nâng cấp lưỡi câu: Giúp câu được nhiều cá hơn. 
+		+ Nâng cấp bộ thu dây: Giúp thu dây nhanh hơn.
+
+- Mục tiêu cuối cùng của người chơi là vượt qua tất cả các level để giành chiến thắng (phá đảo).
+
+- Cách chơi: Người chơi sẽ điều khiển thuyền sang trái hoặc phải, ấn nút để thả cần câu. 
+Cá sẽ di chuyển theo chiều ngang, người chơi sẽ cần căn tốc độ của cá và tốc độ thả cần câu để có thể đón đầu những con cá. 
+Ngoài ra có thế sẽ có những vật phẩm cố định ở dưới dáy biển như rương vàng, sao biển,...
+
+*Đồ họa và âm thanh:
+
+- Đồ họa trong game sẽ sử dụng một phong cách hoạt hình, mang đến cảm giác thân thiện, dễ nhìn và vui nhộn cho người chơi.
+
+- Âm thanh của game sẽ thể hiện âm thanh của biển cả, tiếng cá và tiếng sóng sau lưng người chơi, tạo ra một không gian giống với ngư dân của chúng ta.
